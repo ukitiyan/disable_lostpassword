@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<info>
+    <id>disable_lostpassword</id>
+    <name>Disable Lost Password</name>
+    <description>Disable Lost Password Message</description>
+    <licence>AGPL</licence>
+    <author>Begood Technology Corp.</author>
+    <types>
+        <prelogin/>
+    </types>
+    <version>0.0.1</version>
+    <requiremin>7</requiremin>
+</info>
